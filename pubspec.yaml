@@ -1,0 +1,8 @@
+name: flutter_soccers_clubs_booking_app
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
