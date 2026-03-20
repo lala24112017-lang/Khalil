@@ -1,0 +1,11 @@
+# Flutter/Dart
+.DS_Store
+.dart_tool/
+.packages
+.pub-cache/
+.pubspec.lock
+build/
+.idea/
+*.jks
+*.key
+*.iml
