@@ -1,8 +1,9 @@
-name: flutter_soccers_clubs_booking_app
-
 dependencies:
   flutter:
     sdk: flutter
-
-flutter:
-  uses-material-design: true
+  cupertino_icons: ^1.0.2
+  http: ^0.13.3
+  provider: ^6.0.0
+  shared_preferences: ^2.0.8
+  flutter_web_plugins:
+    sdk: flutter
